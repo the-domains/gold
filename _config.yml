@@ -1,7 +1,6 @@
-name: null
+name: Gold
 favicon: null
-layout_spectrum: 0.95679
-typography_spectrum: 0
+layout_spectrum: 0.19082
 cta:
   domain: null
   bucket: null
@@ -22,7 +21,7 @@ color:
     - '#77594b'
     - '#997764'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.6875
+  lightness: 0.75
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
