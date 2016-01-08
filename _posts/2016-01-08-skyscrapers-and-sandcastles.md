@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T15:36:08.783Z'
-dateModified: '2016-01-08T14:47:59.606Z'
+datePublished: '2016-01-08T15:37:13.416Z'
+dateModified: '2016-01-08T15:37:08.864Z'
 title: 'Skyscrapers & Sandcastles'
 author: []
+sourcePath: _posts/2016-01-08-skyscrapers-and-sandcastles.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-08-skyscrapers-and-sandcastles.md
-published: true
-_type: Blurb
+url: skyscrapers-and-sandcastles/index.html
+_type: Article
 
 ---
 # Skyscrapers & Sandcastles
